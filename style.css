@@ -67,15 +67,9 @@ nav a:hover { color: #ffffff; }
   border-radius: 50%;
   background: rgba(255,255,255,0.12);
   border: 3px solid rgba(255,255,255,0.3);
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  display: block;
   margin: 0 auto 1.5rem;
-  font-size: 2.8rem;
-  color: rgba(255,255,255,0.7);
-  font-family: 'Helvetica Neue', sans-serif;
-  font-weight: 300;
-  letter-spacing: -1px;
+  object-fit: cover;
 }
 
 #hero h1 {
